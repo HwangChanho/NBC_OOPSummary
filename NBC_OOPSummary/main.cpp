@@ -7,7 +7,7 @@ using namespace std;
 int getSum(int arr[], int size);
 // 평균
 double getAvg(int arr[], int size);
-// 정렬(1 = 오름차순, 0 = 내림차순)
+// 정렬(1 = 오름차순, 0 = 내림차순)  
 void sort(int arr[], int size, int type);
 // 퀵정렬 로직 함수
 int partition(int arr[], int low, int high);
